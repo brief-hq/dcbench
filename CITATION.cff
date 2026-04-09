@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+authors:
+  - family-names: "Dillon"
+    given-names: "Drew"
+    email: "drew@briefhq.ai"
+    affiliation: "Brief"
+  - family-names: "Varanasi"
+    given-names: "Kasyap"
+    email: "kasyap@briefhq.ai"
+    affiliation: "Brief"
+title: "Decision Compliance Benchmark (dcbench)"
+type: software
+license: MIT
+repository-code: "https://github.com/brief-hq/dcbench"
+url: "https://briefhq.ai/research"
+abstract: >-
+  Benchmark suite measuring how product context improves AI coding agent
+  decision compliance. Demonstrates 49% improvement (46% → 95%) when agents
+  have access to recorded product decisions, personas, and customer signals.
+keywords:
+  - ai-coding-agents
+  - benchmark
+  - decision-compliance
+  - retrieval-augmented-generation
+  - software-engineering
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Dillon"
+      given-names: "Drew"
+    - family-names: "Varanasi"
+      given-names: "Kasyap"
+  title: "Context-Augmented Code Generation: How Product Context Improves AI Coding Agent Decision Compliance by 49%"
+  year: 2025
