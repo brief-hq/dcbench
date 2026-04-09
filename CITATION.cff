@@ -13,7 +13,7 @@ title: "Decision Compliance Benchmark (dcbench)"
 type: software
 license: MIT
 repository-code: "https://github.com/brief-hq/dcbench"
-url: "https://briefhq.ai/research"
+url: "https://briefhq.ai/assets/pdf/Context_Augmented_Code_Generation.pdf"
 abstract: >-
   Benchmark suite measuring how product context improves AI coding agent
   decision compliance. Demonstrates 49% improvement (46% → 95%) when agents
