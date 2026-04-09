@@ -164,7 +164,7 @@ This is a **proof-of-concept benchmark**, not a definitive field result.
   title={Context-Augmented Code Generation: How Product Context Improves
          AI Coding Agent Decision Compliance by 49\%},
   author={Dillon, Drew and Varanasi, Kasyap},
-  year={2025}
+  year={2026}
 }
 ```
 
