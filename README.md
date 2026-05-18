@@ -1,11 +1,11 @@
 # Decision Compliance Benchmark (dcbench)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper](https://img.shields.io/badge/Paper-Context--Augmented%20Code%20Generation-blue)](https://briefhq.ai/assets/pdf/Context_Augmented_Code_Generation.pdf)
+[![Paper](https://img.shields.io/badge/Paper-Context--Augmented%20Code%20Generation-blue)](https://arxiv.org/abs/2605.08112)
 
 **How Product Context Improves AI Coding Agent Decision Compliance by 49%**
 
-This repository contains the benchmark suite, test application, and scoring harness from the paper *"Context-Augmented Code Generation"* by Drew Dillon and Kasyap Varanasi ([Brief](https://briefhq.ai)).
+This repository contains the benchmark suite, test application, and scoring harness from the paper *["Context-Augmented Code Generation"](https://arxiv.org/abs/2605.08112)* by Drew Dillon and Kasyap Varanasi ([Brief](https://briefhq.ai)).
 
 ## Key Finding
 
@@ -170,7 +170,7 @@ This is a **proof-of-concept benchmark**, not a definitive field result.
 
 ## Links
 
-- **Paper**: [Context-Augmented Code Generation](https://briefhq.ai/assets/pdf/Context_Augmented_Code_Generation.pdf)
+- **Paper**: [Context-Augmented Code Generation](https://arxiv.org/abs/2605.08112)
 - **Brief**: [https://briefhq.ai](https://briefhq.ai)
 
 ## License
